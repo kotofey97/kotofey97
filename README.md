@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Olya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotofey97&show_icons=true&theme=radical)
 
